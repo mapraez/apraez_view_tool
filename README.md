@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ApraezViewTool::Renderer.copyright 'Marco Apraez', 'All rights reserved.'
+```
 
 ## Development
 
